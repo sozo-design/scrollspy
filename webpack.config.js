@@ -9,6 +9,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     library: 'ScrollSpy',
     libraryTarget: 'umd',
+    libraryExport: 'default',
     globalObject: 'this'
   },
   module: {
