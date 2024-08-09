@@ -5,20 +5,20 @@ A lightweight ScrollSpy library for smooth scrolling animations using Intersecti
 ## Installation
 
 ```bash
-npm install scrollspy
+npm install sozo-scrollspy
 ```
 
 ## Usage
 
 ```html
-<link rel="stylesheet" href="node_modules/scrollspy/dist/scrollspy.min.css">
+<link rel="stylesheet" href="node_modules/sozo-scrollspy/dist/scrollspy.min.css">
 
 <div sz-scrollspy="delay:500; cls:sz-animation-fade">
   <!-- Your content here -->
 </div>
 
 <script type="module">
-import ScrollSpy from 'scrollspy';
+import ScrollSpy from 'sozo-scrollspy';
 
 ScrollSpy.init();
 </script>

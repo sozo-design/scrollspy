@@ -1,5 +1,5 @@
 {
-    "name": "scrollspy",
+    "name": "sozo-scrollspy",
     "version": "1.0.0",
     "description": "A lightweight ScrollSpy library for smooth scrolling animations",
     "main": "dist/scrollspy.min.js",
